@@ -15,5 +15,5 @@ Os principais desafios como falha em eventos, erros de debug e linhas de código
 ### Por fim, a experiência trouxe ótimos aprendizados sobre desenvolver com eventos, a utilização de recursos como Animation, manipulação das activitys, orientação da tela e muitos outros.
 
 
-  | <img src="https://user-images.githubusercontent.com/108356462/181765470-a1ce7c0e-7dbc-4fa8-8f70-e0a5788ead82.jpg" width="240" height="440" /> | <img src="https://user-images.githubusercontent.com/108356462/181765431-c4d0d215-30e4-46e3-a7a3-296d6f35975d.jpg" width="240" height="440" /> | <img src="https://user-images.githubusercontent.com/108356462/181765454-33844823-0730-4f0a-94b6-ad91c4b5deec.jpg" width="240" height="440" /> |
+  | <img src="https://user-images.githubusercontent.com/108356462/181765470-a1ce7c0e-7dbc-4fa8-8f70-e0a5788ead82.jpg" /> | <img src="https://user-images.githubusercontent.com/108356462/181765431-c4d0d215-30e4-46e3-a7a3-296d6f35975d.jpg" /> | <img src="https://user-images.githubusercontent.com/108356462/181765454-33844823-0730-4f0a-94b6-ad91c4b5deec.jpg" /> |
   | :---    | :----:   | ---:    |
